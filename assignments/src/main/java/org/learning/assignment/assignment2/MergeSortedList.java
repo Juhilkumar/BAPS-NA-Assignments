@@ -2,6 +2,7 @@ package org.learning.assignment.assignment2;
 
 import java.util.*;
 
+// 1.  Program to merge 2 sorted lists into 1 sorted list.
 public class MergeSortedList {
     static List<Integer> mergeTwoSortedListsV1(List<Integer> list1, List<Integer> list2) {
         List<Integer> result = new ArrayList<>();
